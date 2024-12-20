@@ -1,0 +1,2 @@
+D:\Project files\unity\hxpercasual game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Project files\unity\hxpercasual game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
