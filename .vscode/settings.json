@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "hxpercasual game.sln"
+    "dotnet.defaultSolution": "Hypercasual-game.sln"
 }
